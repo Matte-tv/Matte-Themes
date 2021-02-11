@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# ClearVision v6
+# Matte v1
 
 [![Releases][release-badge]][release-link]
 [![License][license-badge]][license-link]
